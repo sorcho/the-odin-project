@@ -9,4 +9,4 @@ project-name: project-description
 
 # Individual Projects
 
-- odin-recipes: The website will consist of a main index page which will have links to a few recipes. **Every recipe is copy-pasted from: [Fatto in casa da Benedetta](https://www.fattoincasadabenedetta.it)**
+- [odin-recipes](./odin-recipes/index.html): The website will consist of a main index page which will have links to a few recipes. **Every recipe is copy-pasted from: [Fatto in casa da Benedetta](https://www.fattoincasadabenedetta.it)**
